@@ -1,0 +1,15 @@
+{
+    "name": "aramirez-es/traceable-request-id",
+    "require-dev": {
+        "phpspec/phpspec": "*"
+    },
+    "authors": [
+        {
+            "name": "Alberto Ramirez",
+            "email": "alberto@aramirez.es"
+        }
+    ],
+    "require": {
+
+    }
+}
