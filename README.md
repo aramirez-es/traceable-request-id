@@ -20,5 +20,5 @@ It generates
 
 Missing things:
 * _generateFromString_ that parse a given string and return a RequestId.
-* check how _isEqualTo_ method work with parents.
-* Maybe extract all _generate_ method to a _RequestIdBuilder_ and keep RequestId as simple as possible.
+* check how _isEqualTo_ method works with parents.
+* Maybe extract all _generate_ methods to a _RequestIdBuilder_ and keep RequestId as simple as possible.
