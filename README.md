@@ -10,7 +10,8 @@ RequestId::generateFromOther(
             new \RequestId("09942a")
         )
     )
-);``
+);
+```
 
 It generates
 ```php
